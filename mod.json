@@ -1,8 +1,8 @@
 {
   "name": "bleach",
   "displayName": "[white]Bleach",
-  "description": "Bleaches the game, may cause confusion and depression. [red]Warning: Blending may last forever even when you disabled it.[] Use [accent]Draw.blend(Blending.normal);[] or [accent]Draw.blend();[] to fix it, hopefully.",
+  "description": "Bleaches the game, may cause confusion and depression. [red]Warning: Blending may last forever even when you disabled it.[] Use [accent]Draw.blend(Blending.normal);[] or [accent]Draw.blend();[] to fix it, reloading the game works too.",
   "author": "[white]Gdeft",
-  "version": "[blue]1.0\n\nh",
+  "version": "[cyan]1.0[]\n\nh\n",
   "hidden": true
 }
