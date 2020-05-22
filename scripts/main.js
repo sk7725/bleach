@@ -1,0 +1,1 @@
+Draw.blend(Blending.additive);
