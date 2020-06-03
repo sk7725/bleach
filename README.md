@@ -1,4 +1,5 @@
 # Bleach
+Bleaches the game.
 
 ### 1.0: Release
 ```javascript
