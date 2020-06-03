@@ -1,11 +1,11 @@
-## Bleach
+# Bleach
 
-1.0: Release
+### 1.0: Release
 ```javascript
 Draw.blend(Blending.additive); 
 ```
 
-1.1: Sonnicon's shader magic from the [Commandblocks](https://github.com/sk7725/commandblocks) mod.
+### 1.1: Sonnicon's shader magic from the [Commandblocks](https://github.com/sk7725/commandblocks) mod.
 ```javascript
 if(!Vars.headless){
 	importPackage(Packages.arc.graphics.gl);
