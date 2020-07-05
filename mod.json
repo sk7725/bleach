@@ -1,7 +1,7 @@
 {
   "name": "bleach",
   "displayName": "[white]Bleach",
-  "description": "[royal]1.1.2: Sonnicon's shader magic and patches[]\n\nBleaches the game. [red]Disable the mod or delete it from the `mods` directory to remove it.[]",
+  "description": "[royal]1.1.2: Sonnicon's shader magic and patches[]\n\nBleaches the game. [red]https://github.com/Gdeft/bleach#disabling[]",
   "author": "Gdeft",
   "version": "[accent]1.1.2[]",
   "hidden": true
