@@ -12,7 +12,7 @@ If you somehow can't disable the mod through the mod menu, you can delete the mo
 * Linux: `~/.local/share/Mindustry/mods/`
 * Steam: `steam/steamapps/common/Mindustry/mods/`
 * Windows: `%appdata%/Mindustry/mods/`
-* Android: `data/io.anuke.mindustry/files/mods`
+* Android: `/data/io.anuke.mindustry/files/mods/`
 * Apple: `~/Library/Application Support/Mindustry/mods/`
 
 Delete the mod file, reload the game and that's it.
