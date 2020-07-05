@@ -1,6 +1,23 @@
 # Bleach
 Bleaches the game.
 
+## Disabling
+There are two known ways of disabling the mod.
+### Mods Menu
+The first one, is disabling the mod through the **Mods** menu in the game. After you've done that, you can reload the game and everything should go back to normal again after that.
+
+### Mods Directory
+If you somehow can't disable the mod through the mod menu, you can delete the mod file or move it somewhere directly in the `mods` directory. The list below is how you get the game's `mods` directory according to your platform.
+
+* Linux: `~/.local/share/Mindustry/mods/`
+* Steam: `steam/steamapps/common/Mindustry/mods/`
+* Windows: `%appdata%/Mindustry/mods/`
+* Android: `data/io.anuke.mindustry/files/mods`
+* Apple: `~/Library/Application Support/Mindustry/mods/`
+
+Delete the mod file, reload the game and that's it.
+
+## Version
 ### 1.0: Release
 ```javascript
 Draw.blend(Blending.additive); 
