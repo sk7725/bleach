@@ -10,3 +10,13 @@ if(!Vars.headless){
 
 Draw.shader(shader);
 Draw.blend(Blending.additive);
+
+Events.on(EventType.Trigger.update, run(()=>{
+    var arr = Object.keys(Pal);
+    for(var i=0;i<arr.length;i++){
+        try{
+            Pal[arr[i]] = Pal[arr[i]].shiftHue(0.2);
+        }
+        catch(err){}
+    }
+}));
